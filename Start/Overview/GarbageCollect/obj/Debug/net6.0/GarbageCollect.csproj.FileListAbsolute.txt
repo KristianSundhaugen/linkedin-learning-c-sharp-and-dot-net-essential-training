@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/refint/GarbageCollect.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/GarbageCollect/obj/Debug/net6.0/ref/GarbageCollect.dll
