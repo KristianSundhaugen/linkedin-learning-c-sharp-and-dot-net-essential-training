@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/bin/Debug/net6.0/DataTypes
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/bin/Debug/net6.0/DataTypes.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/bin/Debug/net6.0/DataTypes.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/bin/Debug/net6.0/DataTypes.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/bin/Debug/net6.0/DataTypes.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/refint/DataTypes.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/DataTypes.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Overview/DataTypes/obj/Debug/net6.0/ref/DataTypes.dll
