@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/refint/FileInfo.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/FileInfo/obj/Debug/net6.0/ref/FileInfo.dll
