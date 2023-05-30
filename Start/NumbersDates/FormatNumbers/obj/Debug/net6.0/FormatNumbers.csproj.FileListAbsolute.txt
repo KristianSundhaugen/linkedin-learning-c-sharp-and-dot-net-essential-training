@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/refint/FormatNumbers.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/FormatNumbers/obj/Debug/net6.0/ref/FormatNumbers.dll

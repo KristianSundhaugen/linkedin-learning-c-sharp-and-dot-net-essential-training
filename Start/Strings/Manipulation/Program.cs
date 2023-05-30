@@ -7,7 +7,7 @@ string str3 = "THIS is a STRING";
 string[] strs = {"one", "two", "three", "four"};
 
 // TODO: Length of a string 
-// System.Console.WriteLine(str1.Length);
+System.Console.WriteLine(str1.Length);
 
 // TODO: Access individual characters
 // System.Console.WriteLine(str1[14]);
