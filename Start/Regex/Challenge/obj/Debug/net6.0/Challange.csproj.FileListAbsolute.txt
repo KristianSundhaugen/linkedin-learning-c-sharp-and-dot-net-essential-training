@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/bin/Debug/net6.0/Challange
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/bin/Debug/net6.0/Challange.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/bin/Debug/net6.0/Challange.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/bin/Debug/net6.0/Challange.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/bin/Debug/net6.0/Challange.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/refint/Challange.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/Challange.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Regex/Challenge/obj/Debug/net6.0/ref/Challange.dll
