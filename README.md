@@ -5,6 +5,9 @@ This is the repository for the LinkedIn Learning course C# and .NET Essential Tr
 
 Microsoft .NET is a modern, cross-platform framework for developing applications for the web, desktop, and mobile devices. This course gives an introduction to some of the features of .NET that makes building applications easier, more performant, and more productive. Veteran technologist Joe Marini demonstrates how to use built-in capabilities of .NET such as string processing, data collection types, number and date formatting, reading and writing files, and even working with regular expressions. By using these built-in features, developers can focus on their core application logic and less on having to build common capabilities from scratch.
 
+# Course done, certificate of completion
+![Screenshot](certificate.png)
+
 ## Instructions
 This repository contains the example files code for the course. Clone or copy this repo to your computer and use your favorite text editor to work with them.
 
