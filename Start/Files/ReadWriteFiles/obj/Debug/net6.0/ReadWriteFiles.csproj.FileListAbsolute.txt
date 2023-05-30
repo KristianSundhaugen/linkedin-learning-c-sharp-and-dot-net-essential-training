@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/refint/ReadWriteFiles.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ref/ReadWriteFiles.dll
