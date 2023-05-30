@@ -4,11 +4,11 @@ using System.IO;
 
 class FileAnalyzer
 {
-    private Dictionary<string, int> counts;
+    private Dictionary<string, long> counts;
 
     public FileAnalyzer()
     {
-        counts = new Dictionary<string, int>
+        counts = new Dictionary<string, long>
         {
             ["totalFileCount"] = 0,
             ["excelFileCount"] = 0,
@@ -66,7 +66,7 @@ class FileAnalyzer
 
     private void IncrementSize(string key, string file)
     {
-        counts[key] += (int)new FileInfo(file).Length;
+        counts[key] += new FileInfo(file).Length;
     }
 
     public void PrintResults()
