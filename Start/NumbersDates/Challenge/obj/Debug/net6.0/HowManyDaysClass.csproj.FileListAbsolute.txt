@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/bin/Debug/net6.0/HowManyDaysClass
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/bin/Debug/net6.0/HowManyDaysClass.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/bin/Debug/net6.0/HowManyDaysClass.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/bin/Debug/net6.0/HowManyDaysClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/bin/Debug/net6.0/HowManyDaysClass.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/refint/HowManyDaysClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/HowManyDaysClass.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/Challenge/obj/Debug/net6.0/ref/HowManyDaysClass.dll
