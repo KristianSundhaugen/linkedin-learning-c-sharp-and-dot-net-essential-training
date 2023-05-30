@@ -4,7 +4,7 @@
 string writtenTime;
 DateTime writtenTimeResult;
 //Get input from user
-Console.WriteLine("What time are you writing?");
+Console.WriteLine("What time are you writing? (or exit)");
 writtenTime = Console.ReadLine();
 
 if(writtenTime == "exit")
