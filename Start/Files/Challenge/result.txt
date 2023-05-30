@@ -1,0 +1,10 @@
+~~~~ Result ~~~~
+Total Files: 12
+Excel Count: 4
+Word Count: 5
+PowerPoint Count: 3
+----
+Total Size: 2674311
+Excel Size: 74262
+Word Size: 1196567
+PowerPoint Size: 1403482
