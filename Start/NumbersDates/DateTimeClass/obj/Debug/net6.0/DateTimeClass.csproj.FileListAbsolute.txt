@@ -1,0 +1,15 @@
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.deps.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.runtimeconfig.json
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.csproj.AssemblyReference.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.AssemblyInfoInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.AssemblyInfo.cs
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.csproj.CoreCompileInputs.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/refint/DateTimeClass.dll
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.pdb
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.genruntimeconfig.cache
+/Users/kristian.sundhaugen@mittanbud.no/Documents/PersonalProjects/LearningMaterial/c-sharp-dot-net-essential-training/Start/NumbersDates/DateTimeClass/obj/Debug/net6.0/ref/DateTimeClass.dll
